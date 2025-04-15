@@ -151,7 +151,7 @@ num_tms = 50  # First 50 are TMs
 
 # Define your tutor_move_list here
 tutor_move_list = [
-    "MEGA PUNCH", "SWORDS DANCE", "MEGA KICK", "BODY SLAM", "DOUBLE-EDGE",
+    "MEGA PUNCH", "DRACO METEOR", "MEGA KICK", "BODY SLAM", "DOUBLE-EDGE",
     "COUNTER", "SEISMIC TOSS", "SKY UPPERCUT", "PAIN SPLIT", "SOFTBOILED", "SLEEP TALK",
     "THUNDER WAVE", "EXPLOSION", "ROCK SLIDE", "SUBSTITUTE"
 ]
